@@ -1,0 +1,9 @@
+# Pose-based fence / wall climb detection dependencies
+# Install into the shared D-Fire venv:  pip install -r requirements.txt
+# (These versions match what is already installed in the project venv.)
+
+ultralytics>=8.3.0
+torch>=2.1.0
+torchvision>=0.16.0
+opencv-python>=4.8.0
+numpy>=1.24.0
